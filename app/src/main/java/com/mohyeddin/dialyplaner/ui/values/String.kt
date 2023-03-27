@@ -1,0 +1,15 @@
+package com.mohyeddin.dialyplaner.ui.values
+
+const val TODAY_RATE_TITLE = "امتیاز امروز"
+const val WEAK_RATE_TITLE = "امتیاز هفته"
+const val YESTERDAY_RATE_TITLE = "امتیاز دیروز"
+const val TASKS_TITLE = "برنامه ها"
+const val SEE_ALL_TITLE = "نمایش همه"
+const val PREVIEW_EMPTY_LIST_NOTICE = "چیزی برای نمایش وجود ندارد"
+const val ADD_BUTTON_TITLE = "ثبت"
+const val TITLE_INPUT_LABEL = "عنوان"
+const val START_TIME_INPUT_LABEL = "زمان شروع"
+const val END_TIME_INPUT_LABEL = "زمان پایان"
+const val DELETE_ALERT_DIALOG_TITLE = "آیا از حذف این آیتم مطمئن هستید؟"
+const val YES_BUTTON = "بله"
+const val NO_BUTTON = "خیر"
